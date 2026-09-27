@@ -1,9 +1,8 @@
 # chatgpt
 
-echo "# chatgpt" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/lshpy/chatgpt.git
-git push -u origin main
+Placeholder repository created in 2025 for early experiments with LLM APIs. It never received any code: the only file is this README.
+
+Status: empty placeholder, archived.
+
+---
+https://github.com/lshpy
